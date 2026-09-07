@@ -21,16 +21,25 @@ This repository publishes, with clear provenance, the frozen artifacts of a
 scientific audit that asks:
 
 > When a debt-collection assistant built on a generative AI model is exposed to
-> a *surname* that is nominally associated with a cultural group (Kichwa vs.
-> Hispanic origin), does the assistant's behavior change — in severity, empathy,
+> a *surname* carrying a documented nominal cultural signal (SN-K or SN-H,
+> defined below), does the assistant's behavior change — in severity, empathy,
 > or other guardrail dimensions — relative to a counterfactual twin differing
 > **only** in that surname?
 
 The surname is treated as an **experimental signal with a documented nominal
-cultural association** (SN-K: Kichwa-origin surnames; SN-H: Hispanic-origin
-surnames). It is **not** a claim of ethnic identity of any person: the stimuli
-are synthetic, the frequency evidence is administrative (INEC), and the
-limitations in `docs/14_LIMITATIONS_AND_CLAIMS.md` bound every interpretation.
+cultural association**:
+
+- **SN-K:** nominal signals documented as culturally associated with
+  Kichwa/Andean heritage.
+- **SN-H:** nominal signals of Hispanic/Iberian tradition used as
+  counterfactual controls.
+
+These labels describe experimental nominal signals and do not infer any
+individual's ethnicity, language, self-identification, nationality, or
+Indigenous affiliation. They are **not** a claim of ethnic identity of any
+person: the stimuli are synthetic, the frequency evidence is administrative
+(INEC), and the limitations in `docs/14_LIMITATIONS_AND_CLAIMS.md` bound every
+interpretation.
 
 ## 2. Study design (V4, frozen 2026-09-06)
 
