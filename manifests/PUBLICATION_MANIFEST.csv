@@ -1,7 +1,7 @@
 path,description,source_original,source_sha256,public_sha256,classification,license,reason
 .gitattributes,Disables line-ending conversion so git serves byte-identical content (hash fidelity for SHA256SUMS),-,-,acf5c20bc52d403ae6857b2bece7a4ffc3f93e2ff24a589e53e879b83d01f7d3,PUBLIC,CC-BY-4.0,Copied by explicit whitelist; byte-identical
 CITATION.cff,Citation metadata (CFF 1.2.0); three study authors; no invented identifiers (ORCID/email/DOI/affiliation omitted by design),-,-,f527bc7972ac9efc134018896b7778c9172d1600011416c28c9ff8a96d1f7860,PUBLIC,CC-BY-4.0,Copied by explicit whitelist; byte-identical
-COLLABORATOR_SETUP.md,Instructions to add co-authors as collaborators once verified usernames exist; nobody invited yet,-,-,e468234c841d9a51a73095d25f6a15db557d9b76a215b385e7b8bea84af7e97c,PUBLIC,CC-BY-4.0,Copied by explicit whitelist; byte-identical
+COLLABORATOR_SETUP.md,Instructions to add co-authors as collaborators once verified usernames exist; nobody invited yet,-,-,305aec665a9e0b548b421250d41584de662ed1737ac85b7e27dcfab92757f06e,PUBLIC,CC-BY-4.0,Copied by explicit whitelist; byte-identical
 DATA_AVAILABILITY.md,"Public vs restricted data statement with reasons (privacy, security, institutional agreements, third-party licenses)",-,-,137d2540382444b7fea218e334c8d38ee7c621b01055c3672460af8cadfd6608,PUBLIC,CC-BY-4.0,Copied by explicit whitelist; byte-identical
 LICENSE,MIT license text (code and config),-,-,c0bd0f86565ee737320e4ff3e68872a174a4435c7b3294c22b5ff2d49f417822,PUBLIC,MIT,Copied by explicit whitelist; byte-identical
 LICENSE-DATA,CC BY 4.0 notice for data and authored documentation,-,-,57b8c549c9b0b01435ea24daa752428203e131c1020d9662b0e73bb9c044b1f1,PUBLIC,CC-BY-4.0,Copied by explicit whitelist; byte-identical

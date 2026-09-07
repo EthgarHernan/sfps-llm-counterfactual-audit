@@ -1,16 +1,17 @@
-# Collaborator setup (pendiente — no se ha invitado a nadie)
+# Collaborator setup (actualizado 2026-09-07 — invitación enviada)
 
 El repositorio se creó con el propietario **Edgar Hernan Changoluisa Lasluisa**
 (cuenta GitHub `EthgarHernan`). Los coautores deben agregarse como
 **colaboradores** cuando el autor proporcione sus identificadores verificados:
 
 - **Changoluisa Lasluisa María Belén** — username/email GitHub pendiente
-- **Alemán Gualpa Pablo David** — username/email GitHub pendiente
+- **Alemán Gualpa Pablo David** — GitHub `pabloaleman` (cuenta confirmada por el
+  autor) — **invitado 2026-09-07 con permiso `write`, pendiente de aceptación**
 
-> Decisión 2026-09-07: **no se ha invitado a ningún colaborador** porque no hay
-> usernames ni emails verificados. No inventar identificadores. Si el repositorio
-> se hace público antes de agregarlos, cualquier persona puede contribuir vía
-> issues/PRs mientras tanto.
+> Decisión 2026-09-07: el autor confirmó que el username `pabloaleman`
+> pertenece al coautor Pablo David Alemán Gualpa y envió la invitación (método
+> B, permiso `write`). **Nadie más ha sido invitado**; no inventar
+> identificadores.
 
 ## Cómo agregar un colaborador (cuando se tengan los datos)
 
