@@ -9,12 +9,13 @@ cff-version: 1.2.0
 message: "If you use this software or its data, please cite it using the metadata in this file."
 title: "sfps-llm-counterfactual-audit: reproducibility package of the UISRAEL V4 counterfactual audit"
 abstract: >-
-  Reproducibility package for a counterfactual audit of nominally associated
-  cultural signals (surnames of Kichwa vs. Hispanic origin) in generative AI
-  assistants for debt collection in Ecuador's Popular and Solidarity Financial
-  Sector. Frozen V4 protocol configuration, aggregated final results, judge,
-  statistical and LangFair outputs, human-validation aggregates, figures, and
-  provenance documentation.
+  Reproducibility package for a counterfactual audit of documented nominal
+  cultural signals in generative AI assistants for debt collection in
+  Ecuador's Popular and Solidarity Financial Sector. SN-K denotes nominal
+  signals documented as culturally associated with Kichwa/Andean heritage,
+  while SN-H denotes nominal signals of Hispanic/Iberian tradition used as
+  counterfactual controls. These labels do not infer individual ethnicity,
+  language, self-identification, nationality, or Indigenous affiliation.
 type: software
 authors:
   - family-names: Changoluisa Lasluisa

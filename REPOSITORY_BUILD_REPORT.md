@@ -3,7 +3,14 @@
 Construcción clean-room del paquete de reproducibilidad del estudio UISRAEL
 Grupo 6 (corrida confirmatoria V4). Fecha del informe: **2026-09-07**.
 
-## Estado
+> **Alcance de este informe:** documenta la **construcción inicial** del
+> paquete. El commit `d95c58a…` referido abajo es el commit raíz/inicial de
+> esa construcción, y este informe no pretende registrar el SHA del HEAD de
+> cada corrección documental posterior (terminología, metadatos de citación,
+> etc.). El **estado vigente** del repositorio debe consultarse en la rama
+> `main` del repositorio público.
+
+## Estado — construcción inicial
 
 | Campo | Valor |
 |---|---|
@@ -11,13 +18,13 @@ Grupo 6 (corrida confirmatoria V4). Fecha del informe: **2026-09-07**.
 | Archivos versionados | **62** (commit raíz `d95c58a`) |
 | Tamaño total (árbol público, sin `.git`) | 4 052 338 bytes (~3.86 MB) |
 | Rama | `main` |
-| Commit | `d95c58a98a2a827f39e5c967c383cc800a801802` — "Initial reproducibility package for UISRAEL V4 study" |
+| Commit de construcción inicial | `d95c58a98a2a827f39e5c967c383cc800a801802` — "Initial reproducibility package for UISRAEL V4 study" |
 | Autor del commit (identidad git local del equipo) | Ethgart `<ethgart@hotmail.com>` — usar identidad diferente si el autor lo prefiere (amend antes de difundir) |
 | `git status` | limpio (0 cambios) |
 | URL remota | https://github.com/EthgarHernan/sfps-llm-counterfactual-audit |
 | Remoto creado | `gh repo create` (2026-09-07), PRIVATE durante la auditoría |
 | Visibilidad actual | **PUBLIC** (cambio explícito autorizado por el autor tras PASS, 2026-09-07) |
-| Push realizado | **SÍ** (local == remoto == `d95c58a`) |
+| Push realizado | **SÍ** — push del commit de construcción inicial (2026-09-07). Para el estado vigente: consultar la rama `main` del repositorio público |
 
 ## Seguridad
 
