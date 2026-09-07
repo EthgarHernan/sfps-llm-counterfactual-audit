@@ -1,0 +1,20 @@
+# Environment ACTUALLY executed by the V4 confirmatory run (2026-09-06)
+# and the human validation V2 analysis (2026-09-07).
+# Source of truth: V4 run manifests / docs/15_PUBLICATION_REPRODUCIBILITY_MAP.md
+# Python 3.10.0 · Windows 10.0.26100
+#
+# NOTA / NOTE: this file pins the executed runtime. The project's historical
+# requirements.txt (google-genai==2.22.0, openai==3.8.0, pyyaml==6.0.3) was
+# NOT the executed environment (R-02..R-04 in docs/14_LIMITATIONS_AND_CLAIMS.md)
+# and is not distributed here. See REPRODUCIBILITY.md.
+#
+# Only versions recorded in the run manifests are pinned. Nothing else is
+# asserted. This file supports verification/analysis over the persisted
+# outputs; full regeneration additionally requires non-public assets and API
+# credentials (REPRODUCIBILITY.md, section 5).
+
+google-genai==1.74.0
+openai==2.16.0
+pyyaml==6.0.2
+langfair==0.8.0
+deepeval==4.2.1

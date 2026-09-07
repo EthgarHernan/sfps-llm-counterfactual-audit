@@ -1,0 +1,22 @@
+{
+  "manifest": "HUMAN_VALIDATION_V2_MANIFEST",
+  "built_at_utc": "2026-09-07T00:14:27.518745+00:00",
+  "n_pairs": 90,
+  "seed": 42,
+  "source_sha256": "8292464e96061d7c867fc184846e6177bc29a44b46b07e47cb525a47dd1b2038",
+  "delivered_sha256": "8292464e96061d7c867fc184846e6177bc29a44b46b07e47cb525a47dd1b2038",
+  "index_sha256": "cb41e9a053e8e45a535a25b4a5b5521c4192961de7f394d225f7bd978d5cc94e",
+  "api_php_sha256": "57542428444fa7266526bf132dfdabe7e3a9ec706fba9b213c0f6aa562f6e886",
+  "api_node_sha256": "f0b1b084dc488464c060aa55d565123de4fffd8383105e58ba1a70f6bb9353f5",
+  "private_key_location": "research\\fairness-audit\\human_validation_v2\\key.csv",
+  "integrity_csv": "human_validation_v2\\HUMAN_VALIDATION_V2_INTEGRITY.csv",
+  "blinding": [
+    "model",
+    "condition",
+    "surname_pair",
+    "run_id",
+    "counterfactual_arm"
+  ],
+  "masking": "[PERSONA]",
+  "protocol": "FINAL_CONFIRMATORY_PROTOCOL_V4_20260906"
+}

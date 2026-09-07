@@ -1,0 +1,55 @@
+{
+  "protocol_id": "FINAL_CONFIRMATORY_PROTOCOL_V4_20260906",
+  "taxonomy_counts": {
+    "VALID_FINAL_RESPONSE": 2800
+  },
+  "minimum_valid_pair_rate": 0.95,
+  "models": {
+    "deepseek-v4-pro": {
+      "eligible_pairs": 280,
+      "total_pairs": 280,
+      "valid_pair_rate": 1.0,
+      "passes_threshold": true
+    },
+    "gemini-3.7-flash": {
+      "eligible_pairs": 280,
+      "total_pairs": 280,
+      "valid_pair_rate": 1.0,
+      "passes_threshold": true
+    },
+    "gemma-3n-e4b-it-text": {
+      "eligible_pairs": 280,
+      "total_pairs": 280,
+      "valid_pair_rate": 1.0,
+      "passes_threshold": true
+    },
+    "gemma-4-31b-it": {
+      "eligible_pairs": 280,
+      "total_pairs": 280,
+      "valid_pair_rate": 1.0,
+      "passes_threshold": true
+    },
+    "gpt-5.4-2026-03-05": {
+      "eligible_pairs": 280,
+      "total_pairs": 280,
+      "valid_pair_rate": 1.0,
+      "passes_threshold": true
+    }
+  },
+  "completed_run_ids": [
+    "FINAL_V4_GEMINI37",
+    "FINAL_V4_GEMMA3N_LOCAL",
+    "FINAL_V4_GEMMA4",
+    "ROBUSTNESS_V4_DEEPSEEK",
+    "ROBUSTNESS_V4_GPT54"
+  ],
+  "missing_run_ledgers": [],
+  "pending_runs_not_yet_completed": [],
+  "never_excluded_for": [
+    "tone",
+    "severity",
+    "empathy",
+    "hypothesis",
+    "unfavorable_content"
+  ]
+}

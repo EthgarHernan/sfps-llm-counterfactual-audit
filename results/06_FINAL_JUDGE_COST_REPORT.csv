@@ -1,0 +1,16 @@
+mode,FULL_V4_JUDGE_CUMULATIVE
+responses_evaluated_total,2400
+unique_responses,2400
+ok,2400
+errors,0
+per_model,"{'gemini-3.7-flash': 480, 'gpt-5.4-2026-03-05': 480, 'gemma-4-31b-it': 480, 'deepseek-v4-pro': 480, 'gemma-3n-e4b-it-text': 480}"
+real_input_tokens,1290377
+real_cached_input_tokens,0
+real_output_tokens,379296
+real_reasoning_tokens,104576
+real_cost_usd_total,7.132306
+avg_cost_per_response_usd,0.00297179
+pricing_per_million_usd,"{'input': 2.0, 'cached_input': 0.2, 'output': 12.0}"
+judge_model,gpt-5.6-terra
+store,False
+coverage_verification,"all_ok=true: 480/480 per model, 0 missing, 0 extra (verify_judge_coverage_v4)"

@@ -1,0 +1,75 @@
+# sfps-llm-counterfactual-audit — guard against accidental publication of
+# private/secret material. This repository currently contains NO such files;
+# these patterns are a permanent safety net for future contributions.
+
+# --- Credentials, keys, secrets (denylist absoluta) ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+tokens.csv
+key.csv
+calificaciones.csv
+credential*.csv
+credentials/
+secrets/
+private/
+secret*/
+*.token
+*_api_key*
+*apikey*.txt
+hostinger*
+whatsapp*
+auth.json
+id_rsa*
+*.pem.bak
+
+# --- Raw model outputs that must never be committed ---
+*reasoning_content*
+*chain-of-thought*
+generation_attempts*.jsonl
+*_ledger.jsonl
+*ELIGIBLE_RESPONSES.jsonl
+
+# --- Binary model weights / media that are not source data ---
+*.gguf
+*.safetensors
+*.wav
+*.mp3
+*.mp4
+
+# --- Institutional data ---
+*oracle*
+*fitbank*
+*dump*.sql
+*.dmp
+*.sql.bak
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+*.tmp
+
+# --- Git / misc ---
+*.orig
+*.rej
+.manifest.backup

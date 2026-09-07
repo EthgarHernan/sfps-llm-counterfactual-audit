@@ -1,0 +1,43 @@
+# CITATION.cff — sfps-llm-counterfactual-audit
+# Versión inicial 0.1.0 (criterio: primer empaquetado de reproducibilidad,
+# pendiente de revisión por los autores; se promoverá a 1.0.0 con la release
+# de archivo / DOI Zenodo).
+# Nota deliberada: SIN ORCID, afiliaciones, emails ni DOI (no inventar).
+# Campos vacíos se completarán cuando el autor los proporcione.
+
+cff-version: 1.2.0
+message: "If you use this software or its data, please cite it using the metadata in this file."
+title: "sfps-llm-counterfactual-audit: reproducibility package of the UISRAEL V4 counterfactual audit"
+abstract: >-
+  Reproducibility package for a counterfactual audit of nominally associated
+  cultural signals (surnames of Kichwa vs. Hispanic origin) in generative AI
+  assistants for debt collection in Ecuador's Popular and Solidarity Financial
+  Sector. Frozen V4 protocol configuration, aggregated final results, judge,
+  statistical and LangFair outputs, human-validation aggregates, figures, and
+  provenance documentation.
+type: software
+authors:
+  - family-names: Changoluisa Lasluisa
+    given-names: Edgar Hernan
+  - family-names: Changoluisa Lasluisa
+    given-names: María Belén
+  - family-names: Alemán Gualpa
+    given-names: Pablo David
+version: 0.1.0
+date-released: 2026-09-07
+license: MIT
+repository-code: https://github.com/EthgarHernan/sfps-llm-counterfactual-audit
+keywords:
+  - LLM fairness
+  - counterfactual audit
+  - surname bias
+  - debt collection
+  - Ecuador
+  - SFPS
+  - reproducibility
+  - LangFair
+  - DeepEval
+# licenses for specific content: code = MIT (LICENSE); data/docs = CC BY 4.0
+# (LICENSE-DATA). A Zenodo DOI will be added here when the package is archived.
+# preferred-citation:
+#   ...

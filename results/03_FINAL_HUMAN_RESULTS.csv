@@ -1,0 +1,178 @@
+section,metric,stat,value,n_units,n_raters,mode,note
+Krippendorff,severidad,alpha_ordinal,0.01924508799130964,90,7,COMPLETE_ONLY,análisis primario; degenerado=False
+Acuerdo,severidad,pairwise_exact,0.39947089947089925,90,7,COMPLETE_ONLY,análisis primario
+Acuerdo,severidad,majority_share,0.5888888888888889,90,7,COMPLETE_ONLY,análisis primario
+Acuerdo,severidad,unanimity_rate,0.022222222222222223,90,7,COMPLETE_ONLY,análisis primario
+Krippendorff,empatia,alpha_ordinal,-0.01447600297078755,90,7,COMPLETE_ONLY,análisis primario; degenerado=False
+Acuerdo,empatia,pairwise_exact,0.3793650793650789,90,7,COMPLETE_ONLY,análisis primario
+Acuerdo,empatia,majority_share,0.5666666666666668,90,7,COMPLETE_ONLY,análisis primario
+Acuerdo,empatia,unanimity_rate,0.03333333333333333,90,7,COMPLETE_ONLY,análisis primario
+Krippendorff,calidad_servicio,alpha_ordinal,0.025626951600312586,90,7,COMPLETE_ONLY,análisis primario; degenerado=False
+Acuerdo,calidad_servicio,pairwise_exact,0.3994708994708992,90,7,COMPLETE_ONLY,análisis primario
+Acuerdo,calidad_servicio,majority_share,0.5857142857142856,90,7,COMPLETE_ONLY,análisis primario
+Acuerdo,calidad_servicio,unanimity_rate,0.022222222222222223,90,7,COMPLETE_ONLY,análisis primario
+Krippendorff,threat_or_legal_escalation,alpha_nominal,-0.0031872509960160222,180,7,COMPLETE_ONLY,análisis primario; degenerado=False
+Flags,threat_or_legal_escalation,prevalencia_humana,0.003968253968253968,180,7,COMPLETE_ONLY,análisis primario
+Krippendorff,humiliation_hostility_coercion_or_guilt,alpha_nominal,-0.11246764237356621,180,7,COMPLETE_ONLY,análisis primario; degenerado=False
+Flags,humiliation_hostility_coercion_or_guilt,prevalencia_humana,0.11428571428571428,180,7,COMPLETE_ONLY,análisis primario
+Krippendorff,invented_amount_date_discount_refinancing_or_agreement,alpha_nominal,-0.0015543153669166365,180,7,COMPLETE_ONLY,análisis primario; degenerado=False
+Flags,invented_amount_date_discount_refinancing_or_agreement,prevalencia_humana,0.01746031746031746,180,7,COMPLETE_ONLY,análisis primario
+Krippendorff,privacy_or_identity_confirmation_failure,alpha_nominal,-0.007623201744733299,180,7,COMPLETE_ONLY,análisis primario; degenerado=False
+Flags,privacy_or_identity_confirmation_failure,prevalencia_humana,0.03253968253968254,180,7,COMPLETE_ONLY,análisis primario
+Krippendorff,ignored_stop_contact_or_human_advisor_request,alpha_nominal,0.0038564094896323953,180,7,COMPLETE_ONLY,análisis primario; degenerado=False
+Flags,ignored_stop_contact_or_human_advisor_request,prevalencia_humana,0.03492063492063492,180,7,COMPLETE_ONLY,análisis primario
+Krippendorff,severidad,alpha_ordinal,0.007589523968554834,90,10,ALL_RATERS,sensibilidad predeclarada; degenerado=False
+Acuerdo,severidad,pairwise_exact,0.401543209876543,90,10,ALL_RATERS,sensibilidad predeclarada
+Acuerdo,severidad,majority_share,0.5864858906525572,90,10,ALL_RATERS,sensibilidad predeclarada
+Acuerdo,severidad,unanimity_rate,0.022222222222222223,90,10,ALL_RATERS,sensibilidad predeclarada
+Krippendorff,empatia,alpha_ordinal,-0.008788963189559684,90,10,ALL_RATERS,sensibilidad predeclarada; degenerado=False
+Acuerdo,empatia,pairwise_exact,0.38267195767195744,90,10,ALL_RATERS,sensibilidad predeclarada
+Acuerdo,empatia,majority_share,0.5662918871252207,90,10,ALL_RATERS,sensibilidad predeclarada
+Acuerdo,empatia,unanimity_rate,0.03333333333333333,90,10,ALL_RATERS,sensibilidad predeclarada
+Krippendorff,calidad_servicio,alpha_ordinal,0.02761315376399609,90,10,ALL_RATERS,sensibilidad predeclarada; degenerado=False
+Acuerdo,calidad_servicio,pairwise_exact,0.39872134038800694,90,10,ALL_RATERS,sensibilidad predeclarada
+Acuerdo,calidad_servicio,majority_share,0.5830026455026456,90,10,ALL_RATERS,sensibilidad predeclarada
+Acuerdo,calidad_servicio,unanimity_rate,0.011111111111111112,90,10,ALL_RATERS,sensibilidad predeclarada
+Krippendorff,threat_or_legal_escalation,alpha_nominal,-0.0030464584920031346,180,10,ALL_RATERS,sensibilidad predeclarada; degenerado=False
+Flags,threat_or_legal_escalation,prevalencia_humana,0.0037936267071320183,180,10,ALL_RATERS,sensibilidad predeclarada
+Krippendorff,humiliation_hostility_coercion_or_guilt,alpha_nominal,-0.10622515616128125,180,10,ALL_RATERS,sensibilidad predeclarada; degenerado=False
+Flags,humiliation_hostility_coercion_or_guilt,prevalencia_humana,0.10925644916540213,180,10,ALL_RATERS,sensibilidad predeclarada
+Krippendorff,invented_amount_date_discount_refinancing_or_agreement,alpha_nominal,-0.0022494544233679914,180,10,ALL_RATERS,sensibilidad predeclarada; degenerado=False
+Flags,invented_amount_date_discount_refinancing_or_agreement,prevalencia_humana,0.017450682852807285,180,10,ALL_RATERS,sensibilidad predeclarada
+Krippendorff,privacy_or_identity_confirmation_failure,alpha_nominal,-0.005145695324752397,180,10,ALL_RATERS,sensibilidad predeclarada; degenerado=False
+Flags,privacy_or_identity_confirmation_failure,prevalencia_humana,0.04324734446130501,180,10,ALL_RATERS,sensibilidad predeclarada
+Krippendorff,ignored_stop_contact_or_human_advisor_request,alpha_nominal,0.001253683611277867,180,10,ALL_RATERS,sensibilidad predeclarada; degenerado=False
+Flags,ignored_stop_contact_or_human_advisor_request,prevalencia_humana,0.0409711684370258,180,10,ALL_RATERS,sensibilidad predeclarada
+Preferencia_brazo,severidad,n_items_gemini-3.7-flash_A_BASE_A,6,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemini-3.7-flash_A_BASE_B,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemini-3.7-flash_A_BASE_EMPATE,4,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemini-3.7-flash_B_FAIRNESS_A,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemini-3.7-flash_B_FAIRNESS_B,9,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemini-3.7-flash_B_FAIRNESS_EMPATE,1,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-3n-e4b-it-text_A_BASE_A,2,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-3n-e4b-it-text_A_BASE_B,8,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-3n-e4b-it-text_A_BASE_EMPATE,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-3n-e4b-it-text_B_FAIRNESS_A,6,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-3n-e4b-it-text_B_FAIRNESS_B,8,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-3n-e4b-it-text_B_FAIRNESS_EMPATE,1,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-4-31b-it_A_BASE_A,4,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-4-31b-it_A_BASE_B,7,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-4-31b-it_A_BASE_EMPATE,4,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-4-31b-it_B_FAIRNESS_A,7,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-4-31b-it_B_FAIRNESS_B,4,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-4-31b-it_B_FAIRNESS_EMPATE,4,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemini-3.7-flash_A,11,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemini-3.7-flash_B,14,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemini-3.7-flash_EMPATE,5,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-3n-e4b-it-text_A,8,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-3n-e4b-it-text_B,16,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-3n-e4b-it-text_EMPATE,6,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-4-31b-it_A,11,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-4-31b-it_B,11,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,severidad,n_items_gemma-4-31b-it_EMPATE,8,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemini-3.7-flash_A_BASE_A,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemini-3.7-flash_A_BASE_B,4,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemini-3.7-flash_A_BASE_EMPATE,6,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemini-3.7-flash_B_FAIRNESS_A,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemini-3.7-flash_B_FAIRNESS_B,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemini-3.7-flash_B_FAIRNESS_EMPATE,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-3n-e4b-it-text_A_BASE_A,6,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-3n-e4b-it-text_A_BASE_B,6,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-3n-e4b-it-text_A_BASE_EMPATE,3,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-3n-e4b-it-text_B_FAIRNESS_A,6,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-3n-e4b-it-text_B_FAIRNESS_B,4,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-3n-e4b-it-text_B_FAIRNESS_EMPATE,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-4-31b-it_A_BASE_A,4,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-4-31b-it_A_BASE_B,9,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-4-31b-it_A_BASE_EMPATE,2,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-4-31b-it_B_FAIRNESS_A,7,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-4-31b-it_B_FAIRNESS_B,3,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-4-31b-it_B_FAIRNESS_EMPATE,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemini-3.7-flash_A,10,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemini-3.7-flash_B,9,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemini-3.7-flash_EMPATE,11,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-3n-e4b-it-text_A,12,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-3n-e4b-it-text_B,10,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-3n-e4b-it-text_EMPATE,8,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-4-31b-it_A,11,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-4-31b-it_B,12,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,empatia,n_items_gemma-4-31b-it_EMPATE,7,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemini-3.7-flash_A_BASE_A,6,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemini-3.7-flash_A_BASE_B,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemini-3.7-flash_A_BASE_EMPATE,4,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemini-3.7-flash_B_FAIRNESS_A,8,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemini-3.7-flash_B_FAIRNESS_B,6,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemini-3.7-flash_B_FAIRNESS_EMPATE,1,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-3n-e4b-it-text_A_BASE_A,7,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-3n-e4b-it-text_A_BASE_B,7,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-3n-e4b-it-text_A_BASE_EMPATE,1,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-3n-e4b-it-text_B_FAIRNESS_A,6,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-3n-e4b-it-text_B_FAIRNESS_B,6,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-3n-e4b-it-text_B_FAIRNESS_EMPATE,3,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-4-31b-it_A_BASE_A,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-4-31b-it_A_BASE_B,9,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-4-31b-it_A_BASE_EMPATE,1,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-4-31b-it_B_FAIRNESS_A,7,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-4-31b-it_B_FAIRNESS_B,5,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-4-31b-it_B_FAIRNESS_EMPATE,3,15,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemini-3.7-flash_A,14,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemini-3.7-flash_B,11,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemini-3.7-flash_EMPATE,5,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-3n-e4b-it-text_A,13,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-3n-e4b-it-text_B,13,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-3n-e4b-it-text_EMPATE,4,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-4-31b-it_A,12,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-4-31b-it_B,14,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Preferencia_brazo,calidad_servicio,n_items_gemma-4-31b-it_EMPATE,4,30,7,COMPLETE_ONLY,mayoría humana sobre 7 raters
+Juez_vs_humano,severidad,spearman_rho,-0.09533164591545512,90,7,COMPLETE_ONLY,preferencia humana media vs diferencia de puntajes del juez (escala 0-4)
+Juez_vs_humano,severidad,mae_normalizado,0.2420634920634919,90,7,COMPLETE_ONLY,|humano - (juez_A-juez_B)/4|
+Juez_vs_humano,severidad,weighted_kappa_lineal,-0.014893617021276584,90,7,COMPLETE_ONLY,clases -1/0/+1: mayoría humana vs signo de la diferencia del juez
+Juez_vs_humano,severidad,weighted_kappa_quadratic,0.006556560710432439,90,7,COMPLETE_ONLY,descriptivo adicional
+Juez_vs_humano,severidad,spearman_rho_gemini-3.7-flash,-0.12888856237161114,30,7,COMPLETE_ONLY,"descriptivo, n=15 por modelo"
+Juez_vs_humano,severidad,spearman_rho_gemma-3n-e4b-it-text,-0.21421692713554927,30,7,COMPLETE_ONLY,"descriptivo, n=15 por modelo"
+Juez_vs_humano,severidad,spearman_rho_gemma-4-31b-it,0.08639189399447389,30,7,COMPLETE_ONLY,"descriptivo, n=15 por modelo"
+Juez_vs_humano,empatia,spearman_rho,0.17944512236973686,90,7,COMPLETE_ONLY,preferencia humana media vs diferencia de puntajes del juez (escala 0-4)
+Juez_vs_humano,empatia,mae_normalizado,0.2285714285714286,90,7,COMPLETE_ONLY,|humano - (juez_A-juez_B)/4|
+Juez_vs_humano,empatia,weighted_kappa_lineal,-0.0631364562118126,90,7,COMPLETE_ONLY,clases -1/0/+1: mayoría humana vs signo de la diferencia del juez
+Juez_vs_humano,empatia,weighted_kappa_quadratic,-0.05112708265272789,90,7,COMPLETE_ONLY,descriptivo adicional
+Juez_vs_humano,empatia,spearman_rho_gemini-3.7-flash,-0.11519771842612596,30,7,COMPLETE_ONLY,"descriptivo, n=15 por modelo"
+Juez_vs_humano,empatia,spearman_rho_gemma-3n-e4b-it-text,0.2970249327905669,30,7,COMPLETE_ONLY,"descriptivo, n=15 por modelo"
+Juez_vs_humano,empatia,spearman_rho_gemma-4-31b-it,0.273972543789044,30,7,COMPLETE_ONLY,"descriptivo, n=15 por modelo"
+Juez_vs_humano_flags,threat_or_legal_escalation,cohen_kappa,NO_DEFINIDO_0_POSITIVOS_JUEZ,180,7,COMPLETE_ONLY,"180 slots (90 items x 2 respuestas); referencia = juez; positivos juez en muestra = 0/180, positivos mayoría humana = 0/180"
+Juez_vs_humano_flags,threat_or_legal_escalation,precision,NO_DEFINIDO_0_POSITIVOS_HUMANOS,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,threat_or_legal_escalation,recall,NO_DEFINIDO_0_POSITIVOS_JUEZ,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,threat_or_legal_escalation,f1,NO_DEFINIDO,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,threat_or_legal_escalation,agreement_rate,1.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,threat_or_legal_escalation,prevalencia_humana,0.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,threat_or_legal_escalation,prevalencia_juez,0.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,humiliation_hostility_coercion_or_guilt,cohen_kappa,NO_DEFINIDO_0_POSITIVOS_JUEZ,180,7,COMPLETE_ONLY,"180 slots (90 items x 2 respuestas); referencia = juez; positivos juez en muestra = 0/180, positivos mayoría humana = 0/180"
+Juez_vs_humano_flags,humiliation_hostility_coercion_or_guilt,precision,NO_DEFINIDO_0_POSITIVOS_HUMANOS,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,humiliation_hostility_coercion_or_guilt,recall,NO_DEFINIDO_0_POSITIVOS_JUEZ,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,humiliation_hostility_coercion_or_guilt,f1,NO_DEFINIDO,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,humiliation_hostility_coercion_or_guilt,agreement_rate,1.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,humiliation_hostility_coercion_or_guilt,prevalencia_humana,0.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,humiliation_hostility_coercion_or_guilt,prevalencia_juez,0.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,invented_amount_date_discount_refinancing_or_agreement,cohen_kappa,NO_DEFINIDO_0_POSITIVOS_JUEZ,180,7,COMPLETE_ONLY,"180 slots (90 items x 2 respuestas); referencia = juez; positivos juez en muestra = 0/180, positivos mayoría humana = 0/180"
+Juez_vs_humano_flags,invented_amount_date_discount_refinancing_or_agreement,precision,NO_DEFINIDO_0_POSITIVOS_HUMANOS,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,invented_amount_date_discount_refinancing_or_agreement,recall,NO_DEFINIDO_0_POSITIVOS_JUEZ,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,invented_amount_date_discount_refinancing_or_agreement,f1,NO_DEFINIDO,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,invented_amount_date_discount_refinancing_or_agreement,agreement_rate,1.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,invented_amount_date_discount_refinancing_or_agreement,prevalencia_humana,0.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,invented_amount_date_discount_refinancing_or_agreement,prevalencia_juez,0.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,privacy_or_identity_confirmation_failure,cohen_kappa,NO_DEFINIDO_0_POSITIVOS_HUMANOS,180,7,COMPLETE_ONLY,"180 slots (90 items x 2 respuestas); referencia = juez; positivos juez en muestra = 27/180, positivos mayoría humana = 0/180"
+Juez_vs_humano_flags,privacy_or_identity_confirmation_failure,precision,NO_DEFINIDO_0_POSITIVOS_HUMANOS,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,privacy_or_identity_confirmation_failure,recall,0.0,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,privacy_or_identity_confirmation_failure,f1,NO_DEFINIDO,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,privacy_or_identity_confirmation_failure,agreement_rate,0.85,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,privacy_or_identity_confirmation_failure,prevalencia_humana,0.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,privacy_or_identity_confirmation_failure,prevalencia_juez,0.15,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,ignored_stop_contact_or_human_advisor_request,cohen_kappa,NO_DEFINIDO_0_POSITIVOS_HUMANOS,180,7,COMPLETE_ONLY,"180 slots (90 items x 2 respuestas); referencia = juez; positivos juez en muestra = 1/180, positivos mayoría humana = 0/180"
+Juez_vs_humano_flags,ignored_stop_contact_or_human_advisor_request,precision,NO_DEFINIDO_0_POSITIVOS_HUMANOS,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,ignored_stop_contact_or_human_advisor_request,recall,0.0,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,ignored_stop_contact_or_human_advisor_request,f1,NO_DEFINIDO,180,7,COMPLETE_ONLY,juez = referencia
+Juez_vs_humano_flags,ignored_stop_contact_or_human_advisor_request,agreement_rate,0.9944444444444445,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,ignored_stop_contact_or_human_advisor_request,prevalencia_humana,0.0,180,7,COMPLETE_ONLY,
+Juez_vs_humano_flags,ignored_stop_contact_or_human_advisor_request,prevalencia_juez,0.005555555555555556,180,7,COMPLETE_ONLY,
+Descriptivos,segundos_por_item,mediana,2143.5,630,7,COMPLETE_ONLY,tiempo por comparación en evaluadores completos
+Descriptivos,cierre_recoleccion,ultimo_timestamp_utc,2026-09-07T04:22:51.302Z,659,7,COMPLETE_ONLY,calificaciones.csv descargado por el autor el 2026-09-07; recoleccion cerrada para analisis
+Descriptivos,n_ratings_totales,conteo,659,659,7,COMPLETE_ONLY,659 = 630 completos + 29 parciales

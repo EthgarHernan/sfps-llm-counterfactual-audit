@@ -1,0 +1,15 @@
+{
+  "map_name": "final_model_run_map_v4_20260906",
+  "frozen_on_utc": "2026-09-06",
+  "protocol_id": "FINAL_CONFIRMATORY_PROTOCOL_V4_20260906",
+  "model_runs": {
+    "gemini-3.7-flash": "FINAL_V4_GEMINI37",
+    "gemma-4-31b-it": "FINAL_V4_GEMMA4",
+    "gemma-3n-e4b-it-text": "FINAL_V4_GEMMA3N_LOCAL",
+    "gpt-5.4-2026-03-05": "ROBUSTNESS_V4_GPT54",
+    "deepseek-v4-pro": "ROBUSTNESS_V4_DEEPSEEK"
+  },
+  "robustness_models": ["gpt-5.4-2026-03-05", "deepseek-v4-pro"],
+  "principal_models": ["gemini-3.7-flash", "gemma-4-31b-it", "gemma-3n-e4b-it-text"],
+  "judge_priority": ["gemini-3.7-flash", "gemma-4-31b-it", "gemma-3n-e4b-it-text", "gpt-5.4-2026-03-05", "deepseek-v4-pro"]
+}

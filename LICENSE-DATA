@@ -1,0 +1,29 @@
+Data and documentation license — CC BY 4.0
+==========================================
+
+The **data and documentation** in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0), to the
+extent the authors own rights in them:
+
+- `results/` — aggregated result tables, evidence files, figures map
+- `figures/` — the four frozen V4 figures (PNG)
+- `docs/` — documentation authored by the study authors
+- `manifests/` — manifests and hash lists
+- `data/` — README and any authored notes
+- this README and other root documentation files
+
+Configuration files that function as inputs to code (`config/`,
+`requirements-reproduction.txt`) are licensed under the MIT License — see
+`LICENSE`. Software / code files (`src/`, scripts) are also MIT.
+
+You must give appropriate credit, provide a link to the license, and indicate
+if changes were made. You may do so in any reasonable manner.
+
+- License deed: https://creativecommons.org/licenses/by/4.0/
+- Legal code:  https://creativecommons.org/licenses/by/4.0/legalcode
+
+Software / code files (`src/`, scripts, configuration files parsed as code)
+are licensed under the MIT License — see `LICENSE`.
+
+When a specific file carries its own license or provenance note, that note
+governs that file.

@@ -1,0 +1,13 @@
+{
+  "file": "v4_scheduler_runtime_20260906",
+  "purpose": "Operational scheduling only (worker concurrency per provider). This file does NOT belong to the scientific config: it changes neither prompts, nor payloads, nor hypotheses, nor any inference parameter. The frozen scientific config (confirmatory_experiment_v4_20260906.yaml) remains byte-identical.",
+  "frozen_on_utc": "2026-09-06",
+  "providers": {
+    "gemini37": {"concurrency": 8},
+    "gemma4": {"concurrency": 4},
+    "gemma3n_local": {"concurrency": 1},
+    "gpt54": {"concurrency": 8},
+    "deepseek": {"concurrency": 8}
+  },
+  "note": "All providers remain throttled by their frozen target_rpm / adaptive limiter from the scientific config; concurrency only permits in-flight overlap within the ceiling."
+}

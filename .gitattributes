@@ -1,0 +1,5 @@
+# Byte-for-byte reproducibility: disable ALL line-ending conversion.
+# SHA-256 values in manifests/SHA256SUMS.txt and manifests/PUBLICATION_MANIFEST.csv
+# are computed over the exact file bytes on disk. With `-text`, git stores and
+# serves the identical bytes, so hashes verify equally on any platform/clone.
+* -text

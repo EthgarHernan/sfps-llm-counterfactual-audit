@@ -1,0 +1,6 @@
+{
+  "state": "WAITING_FOR_CONNECTIVITY",
+  "since": "2026-09-07T00:09:22Z",
+  "error_class": "APIConnectionError",
+  "backoff_seconds": 10.0
+}
